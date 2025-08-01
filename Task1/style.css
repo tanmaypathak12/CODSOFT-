@@ -1,0 +1,86 @@
+/* ===== Base Reset ===== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f0faff;
+  color: #1e1e1e;
+  line-height: 1.6;
+  scroll-behavior: smooth;
+}
+
+/* ===== Header ===== */
+header {
+  background-color: #007acc;
+  color: white;
+  padding: 40px 20px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+header h1 {
+  font-size: 2.5rem;
+}
+header p {
+  font-size: 1.2rem;
+  margin-top: 10px;
+}
+
+/* ===== Section Styling ===== */
+section {
+  padding: 40px 20px;
+  max-width: 900px;
+  margin: auto;
+}
+h2 {
+  color: #007acc;
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+  border-bottom: 2px solid #007acc;
+  display: inline-block;
+  padding-bottom: 5px;
+}
+h3 {
+  margin-top: 20px;
+  color: #005f99;
+}
+p {
+  margin: 10px 0;
+}
+ul {
+  margin: 10px 0 20px 20px;
+  list-style-type: disc;
+}
+a {
+  color: #007acc;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* ===== Footer ===== */
+footer {
+  background-color: #e0f2f1;
+  text-align: center;
+  padding: 20px;
+  font-size: 0.9rem;
+  color: #333;
+  margin-top: 50px;
+  border-top: 1px solid #ccc;
+}
+
+/* ===== Responsive Design ===== */
+@media (max-width: 600px) {
+  header h1 {
+    font-size: 2rem;
+  }
+  header p {
+    font-size: 1rem;
+  }
+  h2 {
+    font-size: 1.5rem;
+  }
+}
