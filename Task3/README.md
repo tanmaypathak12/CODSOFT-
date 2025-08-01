@@ -23,7 +23,7 @@ This is a basic calculator with a modern UI built as part of the CodSoft Web Dev
 ---
 
 ## 📁 Folder Structure
-index html
+index.html
 style.css
 script.js
 ---
