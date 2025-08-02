@@ -18,7 +18,7 @@ A personal black-and-white themed landing page showcasing my LinkedIn profile, p
 - Google Fonts
 
 ## 📂 File Structure
-inde.html
+index.html
 style.css
 tanmay.jpg
 ## 🌐 Hosted Version
