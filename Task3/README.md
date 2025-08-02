@@ -27,6 +27,8 @@ index.html
 style.css
 script.js
 ---
+## Deployment link
+https://codsoft-xah7.vercel.app/
 
 ---
 
