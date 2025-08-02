@@ -18,7 +18,7 @@ It includes sections such as Home, About, Skills, Projects, Resume, and Contact.
 (Add screenshots if you want later)
 
 ## 🌐 Hosted Link (if deployed)
-[Click here to view live]https://tanmaypathak12.github.io/Tanmayportfolio/
+[Click here to view live](https://tanmaypathak12.github.io/Tanmayportfolio/)
 
 
 ---
